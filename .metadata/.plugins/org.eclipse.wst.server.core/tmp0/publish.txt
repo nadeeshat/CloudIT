@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Fri Apr 12 18:08:07 EDT 2019
+org.eclipse.jst.jee.server\:cloudit=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\cloudit

@@ -1,0 +1,11 @@
+account.email=tngardiya@gmail.com
+app.yaml.path=../../Desktop/CloudIt/Task8_08042019/New folder/app.yaml
+deploy.artifact.path=../../Desktop/CloudIt/Task8_08042019/New folder/cloudit.war
+eclipse.preferences.version=1
+include.optional.configuration.files=true
+project.allowObsoleteRuntime=false
+project.bucket=
+project.id=cloudit-blockchain
+project.previousVersion.stop=true
+project.promote=false
+project.version=
